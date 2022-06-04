@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: Main.java
+  checksum: c1c2d2aae98a02f7126a167ff30f7f6d05dfb1a67c58790a0e31e32d1e1fb7ab
+version: "1.0"
